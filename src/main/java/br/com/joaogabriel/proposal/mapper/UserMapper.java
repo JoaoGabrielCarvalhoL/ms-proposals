@@ -1,2 +1,6 @@
-package br.com.joaogabriel.proposal.mapper;public interface UserMapper {
+package br.com.joaogabriel.proposal.mapper;
+
+public interface UserMapper {
+
+
 }
